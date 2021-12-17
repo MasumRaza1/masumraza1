@@ -8,7 +8,7 @@
   <img align="left" alt="Anmol Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
 </a>
 
-<a href="https://masumraza1.github.io/)">
+<a href="https://masumraza1.github.io">
   <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
 </a>
 
