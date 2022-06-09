@@ -1,144 +1,33 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Masum!](https://masumraza1.github.io/) 
-<a href="https://www.linkedin.com/in/masum-raza-285a99214">
-  <img align="left" alt="Anmol Tomer - LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-
-
-<a href="mailto:masumraza4444@gmail.com">
-  <img align="left" alt="Anmol Tomer - Mail" width="26px" src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png"/>
-</a>
-
-<a href="https://masumraza1.github.io">
-  <img align="left" alt="Portfolio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/nucleo.svg"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=AnmolTomer" alt="AnmolTomer"/>
 
 ## About Me 🚀
 
-- 🔭 I’m currently focusing on Competitive Programming.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on Machine Learning and Web Development Projects.
-- 🤔 I’m looking for help with unified app to run automated testcases on a given Competitive Programming problem from popular platforms like Codeforces, CodeChef, TopCoder, AtCoder, SPOJ etc.
-- 💬 Ask me about Bash, Vim, Docker, NodeJS, Deep Learning, Computer Vision, Data Visualisation, Data Archival.
-- 😄 Pronouns: He/Him/His
-<!-- - 📫 How to reach me: https://masumraza1.github.io/-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakharrai1609&label=Profile%20views&color=0e75b6&style=flat" alt="prakharrai1609" /> </p>
 
+- 🌱 I’m currently learning **front-end development in react.js and back-end in node.js**
 
-I am dedicated to telling stories with Data. I am experienced in Machine/Deep Learning, Computer Vision and Full Stack Web Development.I am interested in algorithmic competitions and learning about new technologies and frameworks. In my spare time, I love to take part in competitive programming contests held on various online judges like Codeforces, AtCoder etc.
+- 💬 Ask me about **Data structures and algorithms and competitive programming. 😉**
 
-## **Languages and Tools:**  
+- 📫 How to reach me **I'm most active on my linkedin!**
 
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<br />
+- My <a href="https://drive.google.com/file/d/1MDUbnFB0Dswkmd41AvwM8ZZYt5ZWTj0m/view?usp=sharing"><b>resume</b></a>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<br>
 
-
-
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code> -->
-- **Data Science/ML/DL** - Pandas, NumPy, SkLearn, Keras, Seaborn, Plotly, Bokeh.
-- **Competitive Programming** - CPP, Python
-- **Web Development** - Javascript, MongoDb, Express, NodeJS
-
-## **Online Profile Links:**
-
-- LinkedIn - [masum-raza](https://www.linkedin.com/in/masum-raza-285a99214)
-- Hackerrank - [_masumraza_](https://www.hackerrank.com/_masumraza_)
-
-## 📊 **This week I spent my time on** 
-
-<!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 578 Contributions in the Year 2021
- > 
-> 📦 909.3 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 39 Private Repositories  
- > 
-**I'm an Early 🐤** 
-```text
-🌞 Morning    178 commits    ██████░░░░░░░░░░░░░░░░░░░   24.22% 
-🌆 Daytime    191 commits    ██████░░░░░░░░░░░░░░░░░░░   25.99% 
-🌃 Evening    162 commits    █████░░░░░░░░░░░░░░░░░░░░   22.04% 
-🌙 Night      204 commits    ███████░░░░░░░░░░░░░░░░░░   27.76%
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.98% 
-Tuesday      149 commits    █████░░░░░░░░░░░░░░░░░░░░   20.27% 
-Wednesday    116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
-Thursday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Friday       111 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Saturday     109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.83% 
-Sunday       77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-💬 Programming Languages: 
-Java                     6 hrs 43 mins       ███████████░░░░░░░░░░░░░░   45.31% 
-C++                      3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   23.0% 
-Markdown                 2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
-CSS                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   7.08% 
-HTML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.69%
-🔥 Editors: 
-VS Code                  7 hrs 48 mins       █████████████░░░░░░░░░░░░   52.62% 
-IntelliJ                 6 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.7% 
-Notepad++                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
-🐱‍💻 Projects: 
-JAVA_DSA                 6 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   43.27% 
-dsa                      5 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   34.68% 
-omnifood                 2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-cp_playground            23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Unknown Project          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.87%
-💻 Operating System: 
-Windows                  14 hrs 49 mins      █████████████████████████   100.0%
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   11 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
-C++                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
-Jupyter Notebook         7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-HTML                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-```
-
-
-**Timeline**
-
-
-
-
- Last Updated on 19/10/2021
-<!--END_SECTION:waka-->
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/masumrazacse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masumrazacse" height="30" width="40" /></a>
+<a href="https://instagram.com/_masoomraza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_masumraza_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/masumraza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="masumraza" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/_masumraza_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_masumraza_" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/profile/prakhar.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prakhar.rai" height="30" width="40" /></a> -->
+<a href="https://leetcode.com/masumraza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masumraza" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/masumrazacse/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="masumrazacse" height="30" width="40" /></a>
+</p>
+<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br>
 
 ## 📈 Statistics
 <p align="center">
@@ -179,6 +68,5 @@ Masum<br />
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
 
 </div>
