@@ -1,4 +1,29 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Masum!](https://masum-potfolio.netlify.app/) 
+<img src="https://github.com/MasumRaza1/masumraza1/blob/main/masum-github.gif" alt="Masum GitHub Image" style="width: 800px; height: auto; border-radius: 10px; display: block; margin-left: auto; margin-right: auto;">
+
+
+<h1 align="center">I believe <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> Where Logic Meets Creativity </h1>
+<h3 align="center">Building Bridges in the Digital World</h3>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" /> <b><i align="center">Thought : "Hard work beats talent, when talent doesn't work Hard!!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+</p>
+  
+  
+<!-- 
+###
+**jsm-28415/jsm-28415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<div align="center">
+  
+  <span>‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎</span>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=ff1493&size=36&lines=‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎+Hey!+It's+Masum!;I'm+a+Software+Developer.;❤+CPP+WebDevelopment+Opensource;I+❤+DSA..)](https://git.io/typing-svg)
+</div>
+
+
+
+
+
 
 ## About Me 🚀
 
